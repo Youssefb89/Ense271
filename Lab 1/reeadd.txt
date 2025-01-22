@@ -1,1 +1,8 @@
-hello ggithub
+I  first started by thinking about what are the main 'goals' or 'epcis' that we want to have in this app. 
+After some thinking I ended up with account managment, browsing products, selecting groceries, 
+buy groceries, and Delivery and tracking.
+After that I thought about the small details that I wanted for each one. I eneded up with 5 epcis, 
+8  walking skeleton and 25 total tasks.
+After having all my ideas, I rearranged my  walking skeletons to their right spots and ranking my
+ tasks based on how important they are and which relase they should be in.
+The extra feature that I tried was changing the 'epics' colour to pink.
