@@ -1,1 +1,8 @@
+Ense 271 Lab 3
 
+profile
+Qwen2.5-Max
+3:36 pm
+In this lab, we learnt about site maps and asset inventories as tools for planning and organizing web applications, which are key components of Information Architecture . We explored how site maps help structure content hierarchically, plan user navigation, and align with business goals, while asset inventories track all necessary content (text, images, videos, etc.) to ensure completeness. We also practiced card sorting to logically group content and discussed the differences between visual sitemaps (for humans) and XML sitemaps (for search engines).
+
+Additionally, we were introduced to Figma , a design tool used to create UI mockups and diagrams, and applied it to build a sitemap . Finally, we performed a content audit on an existing website, creating both a sitemap and an asset inventory while following best practices like consistent file naming conventions and using spreadsheets to manage assets collaboratively.
