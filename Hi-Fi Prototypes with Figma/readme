@@ -1,1 +1,7 @@
+In this lab, we learned how to create high-fidelity prototypes in Figma by adding interactivity and animations to static wireframes. We explored the prototyping workflow, including setting up flows, creating interactions, and applying transitions like slides, fades, and push effects. Key techniques included wiring elements like hamburger menus, creating automatic carousels, designing lightbox pop-ups, and implementing advanced animations using **Smart Animate** for effects like zooming and draggable galleries.
 
+We also practiced organizing artboards for complex animations and tested our prototypes using Figma’s preview mode. The lab emphasized the importance of user experience (UX) in design by simulating realistic interactions and ensuring smooth navigation between pages. 
+
+For the assignment, we were tasked with creating a virtual tour prototype of a real-world or fictional location, incorporating a home page, a menu, and three interactive landmark pages with unique animations. At least one interaction had to use Smart Animate for transformations, and we were encouraged to maintain our **GitHub portfolio** by documenting our progress effectively.
+
+Overall, this lab reinforced the value of prototyping in validating design decisions and enhancing the user experience before development.
