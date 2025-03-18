@@ -1,3 +1,1 @@
-The website I used is for a company called Green vally Landscape Maintenance 
-The link is:
-https://www.greenvalleylandscaping.com/
+Hello I'm Youssef Abdelaziz. This is my GitHub portfolio where I'm showcasing my work from the Ense271 lab.
