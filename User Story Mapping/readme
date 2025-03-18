@@ -1,1 +1,34 @@
+Ense 271 lab 1
 
+
+In this lab, we learned about GitHub as a tool for showcasing work in the software industry, including how to set up and use Git for version control, create repositories, and maintain a professional portfolio. We explored best practices for GitHub, such as writing clear commit messages, avoiding junk files, and using branches effectively. Additionally, we were introduced to User Story Mapping, a UX exercise to prioritize features for a Minimum Viable Product (MVP), and practiced it using StoriesOnBoard. Finally, we applied these concepts by creating a User Story Map for a grocery delivery app and setting up a private GitHub repository to document our progress throughout the semester.
+
+Github Set up
+
+![Image](https://github.com/user-attachments/assets/29c90f3a-1c2f-40b3-8aa1-614dd7769f7a)
+
+User Story Mapping 
+I began by identifying the main "goals" or "epics" that the grocery delivery app should achieve and what.I also used the 8 steps given to describe user-story mapping:
+Collect Features
+Add Details
+Place Cards in Sequential Order
+Group by Frequency
+Note Logical Breaks in Workflow
+Mark the First System Span
+Fill in Build Estimates
+Slice and Serve
+
+
+
+
+After brainstorming, I settled on the following key epics: Account Management , Browsing Products , Selecting Groceries , Buy Groceries , and Delivery and Tracking .
+
+
+
+
+
+Next, I broke these epics down into smaller details, focusing on the specific steps and tasks required to accomplish each goal. This process resulted in 5 epics , 8 walking skeleton steps , and a total of 25 tasks .
+
+Once I had all my ideas laid out, I organized the walking skeleton steps into their appropriate positions within the user story map. I then ranked the tasks based on their importance and assigned them to specific releases, ensuring that the most critical features were prioritized for earlier releases.
+
+As an additional feature, I customized the color of the epics, changing them to pink to make them visually distinct and easier to identify.
