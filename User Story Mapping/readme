@@ -4,7 +4,8 @@ Ense 271 lab 1
 In this lab, we learned about GitHub as a tool for showcasing work in the software industry, including how to set up and use Git for version control, create repositories, and maintain a professional portfolio. We explored best practices for GitHub, such as writing clear commit messages, avoiding junk files, and using branches effectively. Additionally, we were introduced to User Story Mapping, a UX exercise to prioritize features for a Minimum Viable Product (MVP), and practiced it using StoriesOnBoard. Finally, we applied these concepts by creating a User Story Map for a grocery delivery app and setting up a private GitHub repository to document our progress throughout the semester.
 
 Github Set up
-![Image](https://github.com/user-attachments/assets/29c90f3a-1c2f-40b3-8aa1-614dd7769f7a)
+
+![Image](https://github.com/user-attachments/assets/850a27b7-52d4-45db-9693-b7c7bbb31cd9)
 
 User Story Mapping 
 I began by identifying the main "goals" or "epics" that the grocery delivery app should achieve and what.I also used the 8 steps given to describe user-story mapping:
