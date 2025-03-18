@@ -1,7 +1,18 @@
-In this lab, we learned how to create high-fidelity prototypes in Figma by adding interactivity and animations to static wireframes. We explored the prototyping workflow, including setting up flows, creating interactions, and applying transitions like slides, fades, and push effects. Key techniques included wiring elements like hamburger menus, creating automatic carousels, designing lightbox pop-ups, and implementing advanced animations using **Smart Animate** for effects like zooming and draggable galleries.
+In this lab, we learned how to create high-fidelity prototypes in Figma by adding interactivity and animations to static wireframes. We explored the prototyping workflow, including setting up flows, creating interactions, and applying transitions like slides, fades, and push effects. Key techniques included wiring elements like hamburger menus, creating automatic carousels, designing lightbox pop-ups, and implementing advanced animations using Smart Animate for effects like zooming and draggable galleries.
 
 We also practiced organizing artboards for complex animations and tested our prototypes using Figma’s preview mode. The lab emphasized the importance of user experience (UX) in design by simulating realistic interactions and ensuring smooth navigation between pages. 
 
 For the assignment, we were tasked with creating a virtual tour prototype of a real-world or fictional location, incorporating a home page, a menu, and three interactive landmark pages with unique animations. At least one interaction had to use Smart Animate for transformations, and we were encouraged to maintain our **GitHub portfolio** by documenting our progress effectively.
 
 Overall, this lab reinforced the value of prototyping in validating design decisions and enhancing the user experience before development.
+
+After careful consideration, I chose to create a **virtual tour of Hogwarts** from the Harry Potter series, inspired by my love for its magical world-building and intricate details. Hogwarts provided an ideal setting for designing an engaging and immersive experience that combines storytelling with interactive design.
+
+To bring this idea to life, I researched key landmarks like the Great Hall, Gryffindor Common Room, and Forbidden Forest, gathering information and visuals from sources like Wikipedia, Getty Images, and Pixabay. These resources helped me craft compelling descriptions and find high-quality, royalty-free images that aligned with educational use licensing.
+
+The home page features a captivating image of Hogwarts Castle and a menu for seamless navigation. Each landmark page includes text, images, and interactive elements like clickable galleries, lightbox pop-ups, and animations. For instance, I used **Smart Animate** on the Gryffindor Common Room page to create a zoom-in effect when users click on an image, enhancing immersion. I clearly noted where Smart Animate was used to meet assignment requirements.
+
+Overall, creating this virtual tour allowed me to merge my passion for Harry Potter with the skills I’ve learned in Figma. By focusing on research, thoughtful design, and attention to detail, I crafted an engaging and technically sound prototype that highlights the magic of Hogwarts while showcasing different interaction types.
+
+The link to my prototype:
+https://www.figma.com/design/okYBW8sipsis2VmgsNouOv/Lab-4?node-id=0-1&p=f&t=ArrsQJq276x78bGk-0 
